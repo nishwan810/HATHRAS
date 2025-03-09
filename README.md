@@ -1,4 +1,5 @@
-# HATHRAS  Responsive and  Static  Website developed on TailwindCSS 
+# HATHRAS 
+<h2> Responsive and  Static  Website developed on TailwindCSS </h2>
 
 
 
